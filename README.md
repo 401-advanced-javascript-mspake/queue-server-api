@@ -7,6 +7,7 @@
   
 ### Links and Resources  
 * [submission PR](https://github.com/401-advanced-javascript-mspake/queue-server-api/pull/1)  
+* [Heroku Deployment](https://queue-server-api.herokuapp.com/)
   
 ### Modules  
 #### `app.js, v1.js, 404.js, 500.js, model-finder.js, mongo-model,js, players-model.js, players-schema.js, teams-model.js, teams-schema.js`  
@@ -41,5 +42,5 @@ Endpoints:
 * `/api/v1/:model/:id`  
 * `/api/v1/:model/:id`  
   
-<!-- #### UML
-![uml]() -->
+#### UML
+![uml](https://github.com/401-advanced-javascript-mspake/queue-server-api/blob/api/assets/uml.jpg)
